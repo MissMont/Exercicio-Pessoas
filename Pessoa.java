@@ -49,8 +49,7 @@ public class Pessoa {
     }
 
     public String toString() {
-        return "Informações:\n" +
-                "Nome = " + nome + 
+        return "Nome = " + nome + 
                 "\nTelefone = " + telefone + 
                 "\nIdade = " + idade +
                 "\nAltura = " + altura +
